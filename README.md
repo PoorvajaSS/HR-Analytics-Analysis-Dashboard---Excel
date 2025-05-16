@@ -23,6 +23,17 @@ demographic segments.
 
 Dashboard Design 
 
-![Screenshot 2025-05-16 165804](https://github.com/user-attachments/assets/90edc0e9-af94-4970-9d50-9519b0c145c2)
+![HR analytics dashboard pic](https://github.com/user-attachments/assets/041f0fe4-6845-484d-b027-0c88e6729acc)
+
 
 Insights 
+
+1. Overall attrition rate employees of approximately 16.1%. 
+
+2. The highest attrition is among employees aged 26–35 , followed by the 18–25 group .Most attrition occurs in the first two years: 59 employees leave in their first year, 27 in their second year.
+
+3. Life Sciences and Medical departments see the highest attrition.
+
+4. The highest attrition due to job role  is seen in Laboratory Technicians , Sales Executives , and Research Scientists. 
+
+5. Employees with the lowest work-life balance with 1 rating and with job satisfaction rating 3 are likely to leave the company.
