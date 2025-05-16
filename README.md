@@ -34,7 +34,7 @@ Insights
   
 3. The highest attrition is among employees aged 26–35 , followed by the 18–25 group .Most attrition occurs in the first two years: 59 employees leave in their first year, 27 in their second year.
 
-4. Life Sciences and Medical departments see the highest attrition.
+4. Life Sciences and Medical departments see the highest attrition by education Field.
 
 5. The highest attrition due to job role  is seen in Laboratory Technicians , Sales Executives , and Research Scientists. 
 
