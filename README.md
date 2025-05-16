@@ -1,5 +1,7 @@
 # HR_Analytics_Dashboard_Excel
 
+Datset Drive - [Link] (https://drive.google.com/file/d/153KjM7VsidNPu9LYNgdgEb9ZO6VVcgCj/view?usp=drive_link)
+
 Problem Statement
 
 High employee attrition rates and suboptimal performance can have detrimental effects on organizational effectiveness and morale. The organization faces the challenge of understanding the factors contributing to attrition, identifying patterns in employee performance, and implementing targeted strategies to improve the work environment. The problem is to create an HR analytics solution that not only provides a holistic view of employee data but also allows for in-depth analysis of key performance indicators and their correlations with factors such as job satisfaction, work-life balance, and business travel. The goal is to help the organization reduce attrition rates and enhance overall employee performance by uncovering actionable insights through the exploration of HR data.
