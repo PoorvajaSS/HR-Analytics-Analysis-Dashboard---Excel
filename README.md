@@ -1,6 +1,6 @@
 # HR_Analytics_Dashboard_Excel
 
-Datset Drive - [Link] (https://drive.google.com/file/d/153KjM7VsidNPu9LYNgdgEb9ZO6VVcgCj/view?usp=drive_link)
+Datset Drive - [Link](https://drive.google.com/file/d/153KjM7VsidNPu9LYNgdgEb9ZO6VVcgCj/view?usp=drive_link)
 
 Problem Statement
 
@@ -24,3 +24,5 @@ demographic segments.
 Dashboard Design 
 
 ![Screenshot 2025-05-16 165804](https://github.com/user-attachments/assets/90edc0e9-af94-4970-9d50-9519b0c145c2)
+
+Insights 
